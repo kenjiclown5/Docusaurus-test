@@ -9,6 +9,8 @@ It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s op
 
 ## Heading 2
 
+![night](/img/photo-1726461974101-d98a3c616dcc.avif)
+
 :::info
 
 [Dhub](https://dhub.dev) is a collaborative WYSIWYG editor for Docusaurus that enables both technical and non-technical users to efficiently and easily create and edit Docusaurus Markdown content.
