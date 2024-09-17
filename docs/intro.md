@@ -7,8 +7,12 @@ slug: /
 
 It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s open-source documentation template.
 
+## Heading 2
+
 :::info
+
 [Dhub](https://dhub.dev) is a collaborative WYSIWYG editor for Docusaurus that enables both technical and non-technical users to efficiently and easily create and edit Docusaurus Markdown content.
+
 :::
 
 ![](/img/rocket.webp)
@@ -39,4 +43,4 @@ Explore [Docusaurus' documentation](https://docusaurus.io/docs) to learn more ab
 
 ## **Need help?**
 
-Need help with a specific use-case or just want to chat about docs? You're very welcome to email us at [hello@dhub.dev](mailto:hello@dhub.dev), [join our Discord](https://discord.gg/6qGnyrt7xy), or send feedback (directly to our Slack) using the `Send feedback` button at the top.&#x20;
+Need help with a specific use-case or just want to chat about docs? You're very welcome to email us at [hello@dhub.dev](mailto\:hello@dhub.dev), [join our Discord](https://discord.gg/6qGnyrt7xy), or send feedback (directly to our Slack) using the `Send feedback` button at the top.&#x20;
