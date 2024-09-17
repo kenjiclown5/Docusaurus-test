@@ -1,0 +1,21 @@
+.badge {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border-radius: .375rem;
+  line-height: 1;
+  font-weight: 600;
+  text-transform: uppercase;
+  white-space: nowrap;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.badgeLink {
+  color: white;
+  
+  &:hover {
+    background-color: #3b526a !important;
+    color: white;
+    text-decoration: none;
+  }
+}
