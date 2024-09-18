@@ -7,6 +7,10 @@ slug: /
 
 It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s open-source documentation template.
 
+```mdx-code-block
+<Badge type="design"/>
+```
+
 ## Heading 2
 
 | ahfoafda | dajfda |      |
